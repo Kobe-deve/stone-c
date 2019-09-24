@@ -1,6 +1,6 @@
-// Battle System for Stone Crawler
-// Developed By: ChillPenguin
-// 1/16/2019 -  /  /2019
+// Base/battle header file for Stone Crawler
+// Developed By: Kobe Runnels
+// 1/16/2019 - 4/30/2019
 
 #include <stdio.h>
 #include <stdlib.h>
