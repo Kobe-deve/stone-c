@@ -9,7 +9,7 @@ int main()
 	menur:
 	printPattern(TESTER,80,10);
 	printString("Instruction Manual included in Stone Crawler Manual.txt file",0,17);
-	switch(options("Developed by Kobe Runnels","New Game - Start your Existence","Load Game - Return to the World","Exit","",3,0,10))
+	switch(options("Developed by Demi","New Game - Start your Existence","Load Game - Return to the World","Exit","",3,0,10))
 	{
 		case 1:
 		inJail = false;
