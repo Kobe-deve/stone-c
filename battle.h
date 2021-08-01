@@ -1,5 +1,5 @@
 // Base/battle header file for Stone Crawler
-// Developed By: Kobe Runnels
+// Developed By: Demi
 // 1/16/2019 - 4/30/2019
 
 #include <stdio.h>
